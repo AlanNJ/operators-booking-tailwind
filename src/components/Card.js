@@ -2,7 +2,7 @@ import React from "react";
 
 export const Card = () => {
 	return (
-		<div className="w-[90vw] sm:w-[80vw] md:w-[95vw] md:h-[15vh] bg-white h-1/3 shadow border-none flex flex-col justify-center  md:flex-row md:justify-between items-center mt-10 border-solid border-2 border-indigo-600 rounded-lg h-auto md:h-[9vh] lg:h-[9vh] 2xl:h-[9vh]">
+		<div className="card w-[90vw] sm:w-[80vw] md:w-[95vw] md:h-[15vh] bg-white h-1/3 shadow border-none flex flex-col justify-center  md:flex-row md:justify-between items-center mt-10 border-solid border-2 border-indigo-600 rounded-lg h-auto md:h-[9vh] lg:h-[9vh] 2xl:h-[9vh]">
 			<img
 				src="apple.png"
 				className="w-1/5 h-1/5 rounded-full border-black md:w-[64px] md:h-[64px]"
