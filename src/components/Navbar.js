@@ -5,7 +5,7 @@ import "../index.css";
 
 export const Navbar = () => {
 	return (
-		<div className="flex w-[100vw] py-3 justify-between border  drop-shadow-lg md:py-4 md:mb-10">
+		<div className=" nav flex w-[100vw] py-3 justify-between border  drop-shadow-lg md:py-4 md:mb-10">
 			<div className="flex items-center w-1/2 ">
 				<img
 					src="./apple.png"
