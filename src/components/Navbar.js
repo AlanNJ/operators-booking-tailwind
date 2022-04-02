@@ -15,7 +15,7 @@ export const Navbar = () => {
 					Apple lnc
 				</i>
 			</div>
-			<div className="flex items-center  justify-center">
+			<div className="box flex items-center  justify-center">
 				<CgProfile className="w-10 h-10 sm:w-15 sm:h-30" />
 				<div className="ml-2">
 					<h1 className=" text-xl sm:text-2xl">Alan</h1>
